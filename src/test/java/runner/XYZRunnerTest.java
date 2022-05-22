@@ -5,8 +5,6 @@ import org.junit.runner.RunWith;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
-public class XYZRunnerTest {
-	
 @RunWith(Cucumber.class)
 
 @CucumberOptions(
@@ -18,6 +16,10 @@ public class XYZRunnerTest {
 
 	)
 
+
+
+public class XYZRunnerTest {
+	
 	public class Runner {
 
 	}
